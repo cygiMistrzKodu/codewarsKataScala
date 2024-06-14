@@ -1,3 +1,3 @@
 
-  def sayHello(name: String): String = "Helloo"
+  def sayHello(name: String): String = "Hello, " + name
 
