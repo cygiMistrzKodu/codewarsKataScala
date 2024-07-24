@@ -1,6 +1,5 @@
-object RemoveFirstAndLastCharacters {
-  def removeChars(s: String): String = { 
-    
-     s.substring(1,s.length -1)
-  }
-}
+val laLigaGoals = ???
+val championsLeagueGoals = ???
+val copaDelReyGoals = ???
+
+val totalGoals = ???
