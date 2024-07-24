@@ -1,5 +1,5 @@
-val laLigaGoals = ???
-val championsLeagueGoals = ???
-val copaDelReyGoals = ???
+val laLigaGoals = 43
+val championsLeagueGoals = 10
+val copaDelReyGoals = 5
 
-val totalGoals = ???
+val totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals
