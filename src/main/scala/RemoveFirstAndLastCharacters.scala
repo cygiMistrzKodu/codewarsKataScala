@@ -1,1 +1,1 @@
-def replace(s: String): String = ???
+def replace(s: String): String =  s.replaceAll("[aeiouAEIOU]","!")
