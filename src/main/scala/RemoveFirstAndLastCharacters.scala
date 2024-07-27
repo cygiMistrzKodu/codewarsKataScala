@@ -1,4 +1,1 @@
-def shortenToDate(longDate: String): String = {
-
-  longDate.split(',').apply(0)
-}
+def remove(s: String): String = ???
