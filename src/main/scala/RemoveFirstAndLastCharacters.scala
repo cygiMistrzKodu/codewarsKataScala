@@ -1,1 +1,2 @@
-def remove(s: String): String = ???
+def remove(s: String): String = s.replaceAll("!+$","")
+
