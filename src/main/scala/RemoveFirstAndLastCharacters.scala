@@ -1,2 +1,1 @@
-def remove(s: String): String = s.replaceAll("!+$","")
-
+def findMultiples(n: Int, limit: Int): List[Int] = ???
